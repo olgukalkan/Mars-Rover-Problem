@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\bin\Debug\netcoreapp3.1\MarsRoverProblem.exe
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\bin\Debug\netcoreapp3.1\MarsRoverProblem.deps.json
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\bin\Debug\netcoreapp3.1\MarsRoverProblem.runtimeconfig.json
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\bin\Debug\netcoreapp3.1\MarsRoverProblem.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\bin\Debug\netcoreapp3.1\MarsRoverProblem.dll
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\bin\Debug\netcoreapp3.1\MarsRoverProblem.pdb
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.dll
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.pdb
+C:\Users\lenovo\source\repos\MarsRoverProblem\MarsRoverProblem\obj\Debug\netcoreapp3.1\MarsRoverProblem.genruntimeconfig.cache
